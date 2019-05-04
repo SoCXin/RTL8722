@@ -4,7 +4,7 @@
 ### [简介](https://github.com/sochub/RTL/wiki)
 
 
-瑞昱半导体成立于1987年，位于台湾「硅谷」的新竹科学园区，是著名的网络IC解决方案供应商，
+瑞昱半导体成立于1987年，位于台湾「硅谷」的新竹科学园区，是著名的网络IC解决方案供应商
 
 ### [收录方案](https://github.com/sochub/RTL)
 
@@ -12,5 +12,10 @@
 - [RTL8711AF](https://github.com/sochub/RTL8711AF) 
 - [RTL8711AM](https://github.com/sochub/RTL8711AM)
 - [RTL8710BN](https://github.com/sochub/RTL8710BN) 
+
+### [相似厂商](https://github.com/sochub/RTL)
+
+- [RDA](https://github.com/sochub/RDA) 
+- [ESP](https://github.com/sochub/ESP) 
 
 ##  [SoC开发平台](http://www.qitas.cn)  
