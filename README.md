@@ -1,21 +1,27 @@
-﻿# [RTL](https://github.com/sochub/RTL) 
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-### [简介](https://github.com/sochub/RTL/wiki)
+﻿# [RTL8720](https://github.com/SoCXin/RTL8720)
+
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[Realtek](https://www.realtek.com/zh/)
+#### [Core](https://github.com/SoCXin/Cortex)：[KM4](https://github.com/SoCXin/CM4)
+#### [Level](https://github.com/SoCXin/Level)：100MHz
+
+[RTL8720](https://github.com/SoCXin/RTL8720)
+
+* BT+WiFi (2.4GHz 1T1R 802.11b/g/n)
+* 384KB ROM, 256KB SRAM
+* SDIO 2.0
+* UART x 3
+* I2C interface x 2
+* QFN40 5x5mm
+
+### [组成](https://github.com/SoCXin/RTL8720)
+
+- [文档](docs/)
+- [资源](src/)
+- [工程](project/)
+
+### [选型建议](https://github.com/SoCXin)
 
 
-瑞昱半导体成立于1987年，位于台湾「硅谷」的新竹科学园区，是著名的网络IC解决方案供应商
-
-### [收录方案](https://github.com/sochub/RTL)
-
-- [RTL8195AM](https://github.com/sochub/RTL8195AM) 
-- [RTL8711AF](https://github.com/sochub/RTL8711AF) 
-- [RTL8711AM](https://github.com/sochub/RTL8711AM)
-- [RTL8710BN](https://github.com/sochub/RTL8710BN) 
-
-### [相似厂商](https://github.com/sochub/RTL)
-
-- [RDA](https://github.com/sochub/RDA) 
-- [ESP](https://github.com/sochub/ESP) 
-
-##  [SoC开发平台](http://www.qitas.cn)  
+###  [SoC芯平台](http://www.SoC.Xin)
